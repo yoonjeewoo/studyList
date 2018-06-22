@@ -10,6 +10,8 @@
 
 - [Deep Learning Stanford](http://cs230.stanford.edu/proj-spring-2018.html)
 - [RCNN](http://man-about-town.tistory.com/51)
+- [Deep Learning Paper Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ### Programming
 
@@ -19,5 +21,3 @@
 ### Contest
 
 -  Naver Data Science Competition 2018
-- ​
-
